@@ -7,7 +7,7 @@
 
 body {
   background: #ffecd2;
-  background: linear-gradient(to right, #fcb69f, #ffecd2);
+  background: linear-gradient(to right, #02131a, #02131a);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -24,20 +24,20 @@ body {
 
 h1 {
   margin-bottom: 20px;
-  color: #ff6f61;
+  color: #0e4afd;
 }
 
 form input {
   padding: 10px;
   margin: 10px;
   width: 200px;
-  border: 2px solid #ff6f61;
+  border: 2px solid #79b1f5;
   border-radius: 5px;
 }
 
 button {
   padding: 10px 20px;
-  background-color: #ff6f61;
+  background-color: #6181ff;
   color: white;
   border: none;
   border-radius: 5px;
@@ -45,7 +45,7 @@ button {
 }
 
 button:hover {
-  background-color: #e45b4a;
+  background-color: #4a7be4;
 }
 
 #result {
